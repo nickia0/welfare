@@ -13,7 +13,7 @@
 			var date = now.getDate();//得到日期
 			if (month < 10) month = "0" + month;
 			if (date < 10) date = "0" + date;
-			time = time + " " + year + "/" + month + "/" + date;
+			time = (time!="" ? time+" " : time) + year + "/" + month + "/" + date;
 		}
 		if (hms != null) {//精确到时分秒
 			var hour = now.getHours();//得到小时
@@ -22,23 +22,24 @@
 			if (hour < 10) hour = "0" + hour;
 			if (minu < 10) minu = "0" + minu;
 			if (sec < 10) sec = "0" + sec;
-			time = time + " " + hour + ":" + minu + ":" + sec;
+			time = (time!="" ? time+" " : time) + hour + ":" + minu + ":" + sec;
 		}
 		if (day != null) {//获取星期几
+			time = time!="" ? time+" " : time;
 			var day = now.getDay();//得到周几
 			switch(day) {
-				case 0: time = time + " 星期日"; break;
-				case 1: time = time + " 星期一"; break;
-				case 2: time = time + " 星期二"; break;
-				case 3: time = time + " 星期三"; break;
-				case 4: time = time + " 星期四"; break;
-				case 5: time = time + " 星期五"; break;
-				case 6: time = time + " 星期六"; break;
-				default: time = time + " " + day;
+				case 0: time = time + "星期日"; break;
+				case 1: time = time + "星期一"; break;
+				case 2: time = time + "星期二"; break;
+				case 3: time = time + "星期三"; break;
+				case 4: time = time + "星期四"; break;
+				case 5: time = time + "星期五"; break;
+				case 6: time = time + "星期六"; break;
+				default: time = time + day;
 			}
 		}
 		return time;
 	}
 	//测试用
-	//alert(getCurrentDate(1,null,1));
+	//alert(getCurrentDate(1,null,null));
 }

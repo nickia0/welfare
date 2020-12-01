@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<!-- 可用于页面跳转刷新
+		<meta http-equiv="refresh" content="1;url=https://www.baidu.com"> -->
 		<meta charset="UTF-8" />
 		<!-- 设置屏幕宽度为设备宽度,屏幕密度为高频，中频，低频自动缩放，禁止用户手动调整缩放 -->
 		<meta name="viewport"
@@ -15,34 +17,37 @@
 		<link rel="icon" href="https://www.baidu.com/img/baidu_85beaf5496f291521eb75ba38eacbd87.svg" type="image/x-icon"/>
 		<link rel="shortcut icon" href="https://assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico" type="image/vnd.microsoft.icon"/>
 		<title>鱼跃福临门</title>
-		<script language="javascript">//参数
-			//版本号，参数添加于URL后可利于时时刷新
-			var ver = "2020.1125.1735";
+		<script language="javascript">//版本号，参数添加于URL后可利于时时刷新
+			var ver = "2020.1201.1805";
 		</script>
+		<!-- 获取时间函数 -->
+		<script type="text/javascript" src='getDate.js?v=2020.1201.1805'></script>
+		<!-- 读取xml函数 -->
+		<script type="text/javascript" src="loadXML.js?v=2020.1201.1805"></script>
 	</head>
 	<body>
-		<!-- 开窗时刷新
+		<!-- 根据年月日判断是否刷新 -->
 		<script language="javascript">
-			function myreload() {
-				window.location.search = `?v=${Date.now()}`;
-				window.opener.document.location.reload();
+			function firstreload() {
+				td = getCurrentDate(1,null,null);
+				if (window.location.search != '?t='+td){
+					window.location.search = '?t='+td;
+					//window.open(window.location+'?t='+td,'_self');
+				}
 			}
-		</script> -->
+			firstreload();
+		</script>
 
 		<script language="javascript">
-			document.write('<a href="index2.html?v="'+ver+' target="_blank">测试备份'+"v:"+ver+'</a><br />');
-			document.write('<a href="http://debugx5.qq.com/"'+' target="_blank">清理缓存'+'</a> ');
+			document.write('<a href="index2.html?v='+ver+'" target="_blank">测试备份v:'+ver+'</a><br />');
+			document.write('<a href="https://debugx5.qq.com/" target="_blank">清理缓存</a> ');
 			document.write('<button onclick="location.reload();">刷新</button><br />');
 		</script>
 
-		<!-- 获取时间 -->
-		<script type="text/javascript" src="getDate.js?v="+ver></script>
 		<script type="text/javascript">//显示时间
 			document.write("<p>" + getCurrentDate(1,1,1) + "</p>" + "<br />");
 		</script>
 
-		<!-- 读取xml -->
-		<script type="text/javascript" src="loadXML.js?v="+ver></script>
 		<!-- 解析xml -->
 		<script type="text/javascript">
 			var xmlurl = "WXdata.xml?v="+ver;
@@ -55,13 +60,11 @@
 				var x=xmlDoc.getElementsByTagName("data");
 				for (i=0;i<x.length;i++)
 				{	document.write("<p>");
-					document.write("<a href=" + x[i].getElementsByTagName("url")[0].childNodes[0].nodeValue);
-					document.write(" target='_blank'>");
+					document.write("<a href='" + x[i].getElementsByTagName("url")[0].childNodes[0].nodeValue + "' target='_blank'>");
 					document.write(x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue);
 					document.write("</a>");
 					if (x[i].getElementsByTagName("index")[0].childNodes[0].nodeValue == "002"){
-						document.write("&nbsp;" +"<a href=" + x[i].getElementsByTagName("url2")[0].childNodes[0].nodeValue);
-						document.write(" target='_blank'>");
+						document.write("&nbsp;" + "<a href='" + x[i].getElementsByTagName("url2")[0].childNodes[0].nodeValue + "' target='_blank'>");
 						document.write(x[i].getElementsByTagName("title2")[0].childNodes[0].nodeValue);
 						document.write("</a>");
 					}
