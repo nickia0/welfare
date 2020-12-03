@@ -15,17 +15,22 @@
 		<meta http-equiv=”cache-control” content=”no-cache”>
 		<meta http-equiv=”expires” content=”0″>
 		<link rel="icon" href="https://www.baidu.com/img/baidu_85beaf5496f291521eb75ba38eacbd87.svg" type="image/x-icon"/>
-		<link rel="shortcut icon" href="https://assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico" type="image/vnd.microsoft.icon"/>
+		<link rel="shortcut icon" href="favicon-20201203.svg" type="image/vnd.microsoft.icon"/>
 		<title>鱼跃福临门</title>
 		<script language="javascript">//版本号，参数添加于URL后可利于时时刷新
-			var ver = "2020.1201.1805";
+			var ver = "2020.1203.1807";
 		</script>
-		<!-- 获取时间函数 -->
-		<script type="text/javascript" src='getDate.js?v=2020.1201.1805'></script>
-		<!-- 读取xml函数 -->
-		<script type="text/javascript" src="loadXML.js?v=2020.1201.1805"></script>
 	</head>
 	<body>
+		<!-- 获取时间函数 -->
+		<script language="javascript">
+			document.write('<script type="text/javascript" src="getDate.js?v='+ver+'"><\/script>');
+		</script>
+		<!-- 读取xml函数 -->
+		<script language="javascript">
+			document.write('<script type="text/javascript" src="loadXML.js?v='+ver+'"><\/script>');
+		</script>
+		
 		<!-- 根据年月日判断是否刷新 -->
 		<script language="javascript">
 			function firstreload() {
@@ -40,7 +45,7 @@
 
 		<script language="javascript">
 			document.write('<a href="index2.html?v='+ver+'" target="_blank">测试备份v:'+ver+'</a><br />');
-			document.write('<a href="https://debugx5.qq.com/" target="_blank">清理缓存</a> ');
+			document.write('<a href="http://debugx5.qq.com/" target="_blank">清理缓存</a> ');
 			document.write('<button onclick="location.reload();">刷新</button><br />');
 		</script>
 
