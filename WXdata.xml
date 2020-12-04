@@ -201,9 +201,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京喜]-天天领金币(金币换券)</title>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://vip.m.jd.com/newPage/reward/123dd</url>
+		<index>002</index>
+		<url>https://skuivip.jd.com/?source=a</url>
 		<title>[京东]-摇一摇(京豆,券等)</title>
+		<url2>https://vip.m.jd.com/newPage/reward/123dd</url2>
+		<title2>摇一摇(京豆,券等)</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -233,20 +235,15 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东金融]-赚钱(金贴)</title>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://consume.m.jd.com/home</url>
-		<title>[京东]-全民福利金大放送(换券)</title>
-	</data>
-	<data>
 		<index>002</index>
 		<url>https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html?has_native=0&amp;source=huiyuan</url>
 		<title>[京东]-签到领京豆(京豆)</title>
-		<url2>https://vip.m.jd.com/?source=sybhchdo</url2>
+		<url2>https://vip.m.jd.com/</url2>
 		<title2>京东会员</title2>
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://plantearth.m.jd.com/plantBean/index?source=jingxiaochao</url>
+		<url>https://plantearth.m.jd.com/plantBean/index?source=tiantianjiasu</url>
 		<title>[京东]-种豆得豆(京豆)</title>
 		<url2>https://plantearth.m.jd.com/?source=meishiguan0623</url2>
 		<title2>签到领京豆(京豆)</title2>
