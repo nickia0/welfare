@@ -13,7 +13,7 @@
 			var date = now.getDate();//得到日期
 			if (month < 10) month = "0" + month;
 			if (date < 10) date = "0" + date;
-			time = (time!="" ? time+" " : time) + year + "-" + month + "-" + date;
+			time = (time!="" ? time+" " : time) + year + "/" + month + "/" + date;
 		}
 		if (hms != null) {//精确到时分秒
 			var hour = now.getHours();//得到小时

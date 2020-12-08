@@ -22,9 +22,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[中国移动10086]-公众号一起薅羊毛(领草养羊换话费券)</title>
 	</data>
 	<data>
-		<index>001</index>
-		<url>http://wx.10086.cn/website/taskCenter/diffNet</url>
+		<index>002</index>
+		<url>http://wx.10086.cn/website/spa/main/taskCenter</url>
 		<title>[中国移动10086]-公众号签到赚和微币(换话费券)</title>
+		<url2>http://wx.10086.cn/website/taskCenter/diffNet</url2>
+		<title2>备用</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -47,11 +49,9 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东JD.COM]-宠粉节抽奖(券,红包,京豆等)</title>
 	</data>
 	<data>
-		<index>002</index>
+		<index>001</index>
 		<url>https://jddx.jd.com/m/money/rebate/index.html?bizline=22&amp;bizsource=jdgwfjd</url>
 		<title>[京东]-购物返京豆(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/3WydMN2DnYJDPm5BWJ6b4Lbggd5q/index.html</url2>
-		<title2>签到领京豆</title2>
 	</data>
 	<data>
 		<index>001</index>
