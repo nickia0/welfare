@@ -117,7 +117,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<url2>https://prodev.m.jd.com/mall/active/2SYTm2atain69R3rEPQrfUwypgDH/index.html?babelChannel=ttt22</url2>
 		<title2>个护消消乐</title2>
 	</data>
-	
 	<data>
 		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/37ta5sh5ocrMZF3Fz5UMJbTsL42/index.html</url>
@@ -144,7 +143,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<url2>https://pro.m.jd.com/mall/active/3u1Q7ZjCfQKrRb52c623WNf3Cjz5/index.html</url2>
 		<title2>图书</title2>
 	</data>
-	
 	<data>
 		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/2smCxzLNuam5L14zNJHYu43ovbAP/index.html?babelChannel=chongwangwang</url>
@@ -273,11 +271,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-宠汪汪喂狗粮(换京豆)</title>
 		<url2>https://prodev.m.jd.com/mall/active/3muxzzr7yLJbAKfbbJKPAP2m49Pq/index.html</url2>
 		<title2>宠汪汪消消乐</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://stock-sr.jd.com/h5/jd-new-flipDraw/new-flipDraw.html?mustLogin=1</url>
-		<title>[京东金融]-累计翻牌(券)</title>
 	</data>
 	<data>
 		<index>002</index>
