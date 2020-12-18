@@ -25,8 +25,8 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<index>002</index>
 		<url>http://wx.10086.cn/website/spa/main/taskCenter</url>
 		<title>[中国移动10086]-公众号签到赚和微币(换话费券)</title>
-		<url2>http://wx.10086.cn/website/taskCenter/diffNet</url2>
-		<title2>备用</title2>
+		<url2>https://mp.weixin.qq.com/s/zBpp1u1ppoimmxMXNznRGQ</url2>
+		<title2>签到说明</title2>
 	</data>
 	<data>
 		<index>001</index>

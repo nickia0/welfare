@@ -151,11 +151,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/VW619wg</url>
-		<title>[天天大转盘]-小程序抽奖(得集分宝，券等)</title>
-	</data>
-	<data>
-		<index>001</index>
 		<url>https://m.alipay.com/K0CFwgF</url>
 		<title>[多多有礼-天天领现金]-小程序3次签到,广告任务领小鱼干(抢现金)</title>
 	</data>
@@ -170,6 +165,13 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[集集星球]-小程序签到,广告任务赚集分宝(集分宝)</title>
 		<url2>https://m.alipay.com/hNpoOuh</url2>
 		<title2>广告任务集星星(次日分集分宝)</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://m.alipay.com/e8dCcHt</url>
+		<title>[集集星球]-小程序步数,广告任务(换集分宝)</title>
+		<url2>https://m.alipay.com/eE0F61G</url2>
+		<title2>广告任务抽奖(抽集分宝)</title2>
 	</data>
 	<data>
 		<index>001</index>
