@@ -118,24 +118,28 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title2>每日秒杀说明</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/h5/life_public/www/index.html?publicId=2015110400685466&amp;msgId=2015110400685466fc2e9c46-0403-4838-9e3a-125e095c6100</url>
-		<title>[生活缴费]-每日签到开宝箱(抽缴费红包,券等)</title>
+		<index>002</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2015110400685466%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
+		<title>[生活缴费]-生活号每日签到(抽缴费红包,券等)</title>
+		<url2>https://render.alipay.com/p/h5/life_public/www/index.html?publicId=2015110400685466&amp;msgId=2015110400685466fc2e9c46-0403-4838-9e3a-125e095c6100</url2>
+		<title2>每日签到开宝箱说明</title2>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2017122701257050%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
-		<title>[支付宝车主服务]-每日签到开宝箱(万能红包，券等)</title>
+		<title>[支付宝车主服务]-生活号每日签到天天开宝箱(万能红包，券等)</title>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/h5/life_public/www/index.html?publicId=2018061360340012&amp;msgId=2018061360340012f84d210d-44f0-470a-987d-cdd9eb50ce64</url>
-		<title>[交通出行]-签到开宝箱(抽出行红包,券等)</title>
+		<index>002</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2018061360340012%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
+		<title>[交通出行]-生活号每日签到天天开宝箱(抽出行红包,券等)</title>
+		<url2>https://render.alipay.com/p/h5/life_public/www/index.html?publicId=2018061360340012&amp;msgId=2018061360340012f84d210d-44f0-470a-987d-cdd9eb50ce64</url2>
+		<title2>签到开宝箱说明</title2>
 	</data>
 	<data>
 		<index>002</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2019082066296962%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
-		<title>[优惠加油]-开宝箱(加油红包，券等)</title>
+		<title>[优惠加油]-生活号开宝箱(加油红包，券等)</title>
 		<url2>https://render.alipay.com/p/h5/life_public/www/index.html?publicId=2019082066296962&amp;msgId=20190820662969628a8d087e-c499-4a25-95bb-d9c1e601e998</url2>
 		<title2>签到幸运锦鲤说明</title2>
 	</data>
