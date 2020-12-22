@@ -79,6 +79,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/KcfFqWvhb5hHtaQkS4SD1UU6RcQ/index.html</url>
+		<title>[京东]-智能生活馆签到(京豆)</title>
+	</data>
+	<data>
+		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/zHUHpTHNTaztSRfNBFNVZscyFZU/index.html</url>
 		<title>[京东]-珠宝馆签到(京豆)</title>
 	</data>
