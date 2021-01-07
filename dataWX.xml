@@ -54,7 +54,7 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://h5.m.jd.com/babelDiy/Zeus/2mRgQBYgZsCgFArGaJm5EgjmLT9d/index.html?id=60&amp;mode=1&amp;babelChannel=ttt24</url>
+		<url>https://h5.m.jd.com/babelDiy/Zeus/2mRgQBYgZsCgFArGaJm5EgjmLT9d/index.html?id=79&amp;mode=1&amp;babelChannel=ttt24</url>
 		<title>[京东]-多单有礼(购物领京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/4P9a2T9osR9JvtzHVaYTPvsecRtg/index.html?babelChannel=ttt24</url2>
 		<title2>京东生鲜</title2>
@@ -76,13 +76,13 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://prodev.m.jd.com/mall/active/4812pn2PAcUyfNdWr7Cvpww5MCyW/index.html?babelChannel=ttt14</url>
-		<title>[京东]-京东校园签到(京豆)</title>
+		<url>https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html?babelChannel=ttt11</url>
+		<title>[京东]-鞋靴馆签到(京豆)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html?babelChannel=ttt11</url>
-		<title>[京东]-鞋靴馆签到(京豆)</title>
+		<url>https://prodev.m.jd.com/mall/active/4812pn2PAcUyfNdWr7Cvpww5MCyW/index.html?babelChannel=ttt14</url>
+		<title>[京东]-京东校园签到(京豆)</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -198,14 +198,7 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	<data>
 		<index>001</index>
 		<url>https://lottery.m.jd.com/</url>
-		<title>[京东]-1分京豆 10亿京喜(进入页面随机领京豆)</title>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html?has_native=0&amp;source=huiyuan</url>
-		<title>[京东]-签到领京豆(京豆)</title>
-		<url2>https://vip.m.jd.com/</url2>
-		<title2>京东会员</title2>
+		<title>[京喜]-1分京豆 10亿京喜(进页面随机得京豆)</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -218,6 +211,13 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-摇一摇(京豆,券等)</title>
 		<url2>https://skuivip.jd.com/?source=a</url2>
 		<title2>摇一摇(京豆,券等)</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html?has_native=0&amp;source=huiyuan</url>
+		<title>[京东]-签到领京豆(京豆)</title>
+		<url2>https://vip.m.jd.com/</url2>
+		<title2>京东会员</title2>
 	</data>
 	<data>
 		<index>001</index>
