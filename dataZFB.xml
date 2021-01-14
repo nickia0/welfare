@@ -153,6 +153,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
+		<url>https://m.alipay.com/N3o0a7M</url>
+		<title>[爱攒油]-小程序签到,任务(油量换券)</title>
+	</data>
+	<data>
+		<index>001</index>
 		<url>https://m.alipay.com/wxDQDGp</url>
 		<title>[一淘-天天领钱]-小程序签到(集分宝等)</title>
 	</data>

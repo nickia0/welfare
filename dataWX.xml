@@ -61,11 +61,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://prodev.m.jd.com/mall/active/DpSh7ma8JV7QAxSE2gJNro8Q2h9/index.html</url>
-		<title>[京东]-女装馆签到(京豆)</title>
-	</data>
-	<data>
-		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/2BcJPCVVzMEtMUynXkPscCSsx68W/index.html</url>
 		<title>[京东]-钟表品类馆签到(京豆)</title>
 	</data>
@@ -123,13 +118,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/3SC6rw5iBg66qrXPGmZMqFDwcyXi/index.html</url>
-		<title>[京东]-图书签到有礼(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/3u1Q7ZjCfQKrRb52c623WNf3Cjz5/index.html</url2>
-		<title2>图书</title2>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/2smCxzLNuam5L14zNJHYu43ovbAP/index.html?babelChannel=chongwangwang</url>
 		<title>[京东]-美妆签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/2kmaPNrGDNYo1LKwYtRoaSmsgbj6/index.html?babelChannel=chongwangwang</url2>
@@ -155,6 +143,13 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-服饰签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/3qMkfmPMc55RTahmSSpwwuxVrYMG/index.html?babelChannel=ttt4</url2>
 		<title2>京东服饰</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/3SC6rw5iBg66qrXPGmZMqFDwcyXi/index.html</url>
+		<title>[京东]-图书签到有礼(京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/3u1Q7ZjCfQKrRb52c623WNf3Cjz5/index.html</url2>
+		<title2>图书</title2>
 	</data>
 	<data>
 		<index>002</index>
