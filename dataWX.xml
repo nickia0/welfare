@@ -68,11 +68,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/2BcJPCVVzMEtMUynXkPscCSsx68W/index.html</url>
-		<title>[京东]-钟表品类馆签到(京豆)</title>
-	</data>
-	<data>
-		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/DpSh7ma8JV7QAxSE2gJNro8Q2h9/index.html</url>
 		<title>[京东]-女装馆签到(京豆)</title>
 	</data>
@@ -80,6 +75,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/zHUHpTHNTaztSRfNBFNVZscyFZU/index.html</url>
 		<title>[京东]-珠宝馆签到(京豆)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/KcfFqWvhb5hHtaQkS4SD1UU6RcQ/index.html</url>
+		<title>[京东]-智能生活馆签到(京豆)</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -93,18 +93,18 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/KcfFqWvhb5hHtaQkS4SD1UU6RcQ/index.html</url>
-		<title>[京东]-智能生活馆签到(京豆)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/4PgpL1xqPSW1sVXCJ3xopDbB1f69/index.html</url>
-		<title>[京东]-内衣签到(京豆)</title>
+		<url>https://pro.m.jd.com/mall/active/2BcJPCVVzMEtMUynXkPscCSsx68W/index.html</url>
+		<title>[京东]-钟表品类馆签到(京豆)</title>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/3Af6mZNcf5m795T8dtDVfDwWVNhJ/index.html</url>
 		<title>[京东]-童装馆签到(京豆)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/4PgpL1xqPSW1sVXCJ3xopDbB1f69/index.html</url>
+		<title>[京东]-内衣签到(京豆)</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -166,9 +166,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title2>JD Esports</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url>
-		<title>[京东]-汽车一键签到领京豆(京豆)</title>
+		<index>002</index>
+		<url>https://h5.m.jd.com/babelDiy/Zeus/44bjzCpzH9GpspWeBzYSqBA7jEtP/index.html#/journey</url>
+		<title>[京东]-汽车旅程签到,任务得赛点(换京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url2>
+		<title2>汽车一键签到领京豆(京豆)</title2>
 	</data>
 	<data>
 		<index>001</index>
