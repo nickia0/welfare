@@ -92,7 +92,7 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-箱包馆签到(京豆)</title>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/2BcJPCVVzMEtMUynXkPscCSsx68W/index.html</url>
 		<title>[京东]-钟表品类馆签到(京豆)</title>
 		<url2>https://m.jd.com/portal/app_center.shtml</url2>
@@ -114,7 +114,7 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-酒饮馆签到(京豆)</title>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/3BbAVGQPDd6vTyHYjmAutXrKAos6/index.html?babelChannel=ttt20</url>
 		<title>[京东]-母婴馆签到(京豆)</title>
 		<url2>https://prodev.m.jd.com/mall/active/2oG186jCpbSyRbGJLo28kTiWkHhe/index.html?babelChannel=ttt20</url2>
