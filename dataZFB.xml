@@ -21,6 +21,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2018073160775744%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
+		<title>[互相宝守护金]-天天领守护金(兑支付宝通用红包等)</title>
+	</data>
+	<data>
+		<index>001</index>
 		<url>https://qr.alipay.com/clx03568nedgt70hplj8m4f</url>
 		<title>[宝呗青年]-消费,存储收体验金(兑余额宝收益奖励等)</title>
 	</data>
