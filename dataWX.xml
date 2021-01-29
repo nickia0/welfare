@@ -93,20 +93,20 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/2BcJPCVVzMEtMUynXkPscCSsx68W/index.html</url>
-		<title>[京东]-钟表品类馆签到(京豆)</title>
+		<url>https://pro.m.jd.com/mall/active/2Tjm6ay1ZbZ3v7UbriTj6kHy9dn6/index.html?babelChannel=ttt8</url>
+		<title>[京东]-清洁馆签到(京豆)</title>
 		<url2>https://m.jd.com/portal/app_center.shtml</url2>
 		<title2>百宝箱</title2>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/3Af6mZNcf5m795T8dtDVfDwWVNhJ/index.html</url>
-		<title>[京东]-童装馆签到(京豆)</title>
+		<url>https://pro.m.jd.com/mall/active/4PgpL1xqPSW1sVXCJ3xopDbB1f69/index.html</url>
+		<title>[京东]-内衣签到(京豆)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/4PgpL1xqPSW1sVXCJ3xopDbB1f69/index.html</url>
-		<title>[京东]-内衣签到(京豆)</title>
+		<url>https://pro.m.jd.com/mall/active/3Af6mZNcf5m795T8dtDVfDwWVNhJ/index.html</url>
+		<title>[京东]-童装馆签到(京豆)</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -175,11 +175,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-汽车旅程签到,任务得赛点(换京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url2>
 		<title2>汽车一键签到领京豆(京豆)</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://ylc.m.jd.com/?ext=1101</url>
-		<title>[京东]-游戏大厅(玩游戏得京豆)</title>
 	</data>
 	<data>
 		<index>001</index>

@@ -19,7 +19,7 @@
 				xmlDoc.async = false;
 				xmlDoc.load(xmlurl);
 			}catch(err){
-				alert("loadxml(): "+err);
+				alert("loadxml(): "+err+".请刷新页面");
 			}
 		}
 		return xmlDoc;
