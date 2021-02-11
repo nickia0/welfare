@@ -54,13 +54,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://h5.m.jd.com/babelDiy/Zeus/2mRgQBYgZsCgFArGaJm5EgjmLT9d/index.html?id=149&amp;mode=1</url>
-		<title>[京东]-多单有礼(购物领京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/4P9a2T9osR9JvtzHVaYTPvsecRtg/index.html</url2>
-		<title2>京东生鲜</title2>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://zpsy.jd.com/</url>
 		<title>[京东]-拍卖签到(领积分兑换)</title>
 		<url2>https://mipaimai.jd.com/scoreMall.html</url2>
@@ -102,11 +95,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/3Af6mZNcf5m795T8dtDVfDwWVNhJ/index.html</url>
 		<title>[京东]-童装馆签到(京豆)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/zGwAUzL3pVGjptBBGeYfpKjYdtX/index.html</url>
-		<title>[京东]-酒饮馆签到(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>

@@ -11,12 +11,12 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/hxuryd0</url>
+		<url>https://qr.alipay.com/s7x1158833xeqnpdxbowh81</url>
 		<title>[惠支付]-小程序每天支付奖励(领积分,健康金,刮刮卡等)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/EeIrnfA</url>
+		<url>https://qr.alipay.com/s7x14662vaiyzkhagoiax9f</url>
 		<title>[支付宝消费金]-小程序签到,逛一逛得消费金(换支付宝通用红包等)</title>
 	</data>
 	<data>
@@ -31,7 +31,7 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/NDzSZyk</url>
+		<url>https://qr.alipay.com/s7x16061la7ut54u63nfoec</url>
 		<title>[健康福利社]-小程序5:00-9:30早起,1000步以上领健康果(抽红包等)</title>
 	</data>
 	<data>
@@ -41,22 +41,22 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/h4RZjrS</url>
+		<url>https://qr.alipay.com/s7x13062nthnjpkv32b2k02</url>
 		<title>[网商银行.超级9:30]-小程序签到,任务领福利金(抽奖,换券等)</title>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D68687742%26etOperationType%3Dcom.alipay.promofrontcenter.coupon.router.decide%26etIntercept%3DYES%26chInfo%3Dch_share__chsub_CopyLink</url>
-		<title>[消费券]-超级五六七(秒消费券等)</title>
+		<title>[消费券]-超级五六七10:00/17:00抢消费券,每日翻牌(消费券等)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/4Fag5pe</url>
-		<title>[银行优惠]-银行卡支付立减(领满减券等)</title>
+		<url>https://qr.alipay.com/s7x18179naxbhgpwqej1tcb</url>
+		<title>[银行优惠]-小程序银行卡支付立减(领满减券等)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/DAsOUYJ</url>
+		<url>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?chInfo=ch_share__chsub_CopyLink</url>
 		<title>[好医保]-支付宝付款 天天领红包(领实体店通用红包等)</title>
 	</data>
 	<data>
@@ -83,12 +83,12 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/nm7t6jQ</url>
+		<url>https://qr.alipay.com/s7x17715g5kofy9ttqwli6f</url>
 		<title>[越运动越保障]-小程序步数(领健康金,养老体验金)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/U2x4zim</url>
+		<url>https://qr.alipay.com/s7x12331sxq4q58ovaq7v5c</url>
 		<title>[体育服务]-小程序甩脂运动(卡币)</title>
 	</data>
 	<data>
@@ -103,24 +103,29 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/Vow6oAt</url>
+		<url>https://qr.alipay.com/s7x13677mhsqcpz9mxqdv33</url>
+		<title>[五星联盟福利日]-小程序红包领不停(红包等)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://qr.alipay.com/s7x13807eexzalonlq3qz58</url>
 		<title>[天弘基金指数拼图]-小程序指数拼图(合成红包等)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/xp6dmCn</url>
+		<url>https://qr.alipay.com/s7x14954fhs3lt7nihdnicf</url>
 		<title>[闲鱼免费送]-小程序我的闲鱼币签到(闲鱼币)</title>
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://m.alipay.com/XFpX6Dd</url>
+		<url>https://qr.alipay.com/s7x18650i4iircxksicuxaf</url>
 		<title>[攒电能]-小程序签到,邀请得电能(换缴费红包,券等)</title>
 		<url2>https://render.alipay.com/p/h5/life_public/www/index.html?publicId=2015110400685466&amp;msgId=20151104006854663cefdf41-c463-4943-8012-5afecb1ad551</url2>
 		<title2>攒电能说明</title2>
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://m.alipay.com/Jux0j1e</url>
+		<url>https://qr.alipay.com/s7x14325nfsp07kevlsf01a</url>
 		<title>[秒杀福利邦]-小程序每日秒杀(秒生活缴费红包,券等)</title>
 		<url2>https://render.alipay.com/p/h5/life_public/www/index.html?publicId=2015110400685466&amp;msgId=2015110400685466147cbc54-1b85-4784-9a54-0dcdbf1f6fbc</url2>
 		<title2>每日秒杀说明</title2>
@@ -153,66 +158,66 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/N3o0a7M</url>
+		<url>https://qr.alipay.com/s7x12415m837j61frjmrhc9</url>
 		<title>[爱攒油]-小程序签到,任务(油量换券)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/wxDQDGp</url>
-		<title>[一淘-天天领钱]-小程序签到(集分宝等)</title>
+		<url>https://qr.alipay.com/s7x124788xy845gwdrrnf1a</url>
+		<title>[一淘特卖-天天领钱]-小程序签到(集分宝等)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/OLQXrFy</url>
+		<url>https://qr.alipay.com/s7x13326aduzmwcbmatld7b</url>
 		<title>[福利鸭]-小程序每日签到领红包(得余额)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/K0CFwgF</url>
+		<url>https://qr.alipay.com/s7x11365xthzg2bndrmut70</url>
 		<title>[多多有礼-天天领现金]-小程序3次签到,广告任务领小鱼干(抢现金)</title>
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://m.alipay.com/x2hL8Yl</url>
+		<url>https://qr.alipay.com/s7x17976b0vlex8tzeoum44</url>
 		<title>[集集星球]-小程序签到,广告任务赚集分宝(集分宝)</title>
-		<url2>https://m.alipay.com/hNpoOuh</url2>
+		<url2>https://qr.alipay.com/s7x18069lvt7mklo7qkxzcd</url2>
 		<title2>广告任务集星星(次日分集分宝)</title2>
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://m.alipay.com/e8dCcHt</url>
+		<url>https://qr.alipay.com/s7x18200gkyha4aprn23f7a</url>
 		<title>[集集星球]-小程序步数,广告任务(换集分宝)</title>
-		<url2>https://m.alipay.com/eE0F61G</url2>
+		<url2>https://qr.alipay.com/s7x12118juv3xgrnxyk9u49</url2>
 		<title2>广告任务抽奖(抽集分宝)</title2>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/EWY5bAt</url>
-		<title>[疯狂福利-天天领补贴]-小程序广告签到(集分宝)</title>
+		<url>https://qr.alipay.com/s7x10084wrhumcs39l8yu5a</url>
+		<title>[疯狂福利-天天领补贴]-小程序大额补贴广告签到(集分宝)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/dncvqmS</url>
-		<title>[闪电特价-购物返利]-小程序广告签到(集分宝)</title>
+		<url>https://qr.alipay.com/s7x10737rd68mcgrn8xno3f</url>
+		<title>[闪电特价-购物返利]-小程序闪电特价广告签到(集分宝)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/GdWo1my</url>
-		<title>[走路钱多多]-小程序签到,广告任务(集分宝,伪红包提现等)</title>
+		<url>https://qr.alipay.com/s7x14294d9w7vqojl0temdc</url>
+		<title>[走路钱多多]-小程序走路赚红包签到,广告任务(集分宝,伪红包提现等)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/OYkSM0t</url>
-		<title>[天天夺宝-每日抽奖领福利]-小程序签到,广告任务(集分宝,伪红包提现等)</title>
+		<url>https://qr.alipay.com/s7x10289j79q7ew6q8feod8</url>
+		<title>[天天夺宝-每日抽奖领福利]-小程序天天夺宝签到,广告任务(集分宝,伪红包提现等)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/Tqpb81z</url>
-		<title>[开心签到-有惠]-小程序广告任务(集分宝等)</title>
+		<url>https://qr.alipay.com/s7x10654l6akkb0hn4fhb22</url>
+		<title>[天天直播-超级互动城]-小程序边看边赚广告签到,广告任务(伪红包伪集分宝提现余额)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://m.alipay.com/JqjBQxp</url>
-		<title>[天天直播-超级互动城]-小程序广告签到,广告任务(伪红包伪集分宝提现余额)</title>
+		<url>https://qr.alipay.com/s7x15023ab9eqy2zk97sje7</url>
+		<title>[开心签到-有惠]-小程序打卡赚现金广告任务(集分宝等)</title>
 	</data>
 </DATAS>
